@@ -1,0 +1,26 @@
+UNITS=MM
+
+#
+#Feature attribute names
+#
+@0 .no_pop
+@1 .comp_mount_type
+
+#
+#Feature attribute text strings
+#
+# CMP 0
+CMP 45 73.10 -105.380 270.0 M J11 Connector_PinHeader_2.54mm_PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Right ;0,1=1
+PRP Datasheet 'https://www.we-online.com/components/products/datasheet/61300611121.pdf'
+PRP Description ''
+PRP MPN '61300611121'
+PRP Part_number ''
+PRP Status ''
+PRP Value 'Conn_01x06'
+TOP 0 79.450 -103.7250 270.0 M 2 99 1
+TOP 1 76.910 -107.0350 270.0 M 68 4 2
+TOP 2 74.370 -103.7250 270.0 M 7 3 3
+TOP 3 71.830 -107.0350 270.0 M 8 3 4
+TOP 4 69.290 -103.7250 270.0 M 9 3 5
+TOP 5 66.750 -107.0350 270.0 M 20 271 6
+#
