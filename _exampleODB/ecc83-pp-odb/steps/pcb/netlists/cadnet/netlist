@@ -1,0 +1,50 @@
+H optimize n staggered n
+$1 GND
+$2 Net-(P3-P1)
+$3 Net-(P2-P1)
+$4 Net-(U1A-K)
+$5 Net-(P1-PM)
+$6 Net-(P4-P1)
+$7 Net-(P4-PM)
+$8 unconnected-(P5-Pad1)
+$9 unconnected-(P6-Pad1)
+$10 unconnected-(P7-Pad1)
+$11 unconnected-(P8-Pad1)
+$12 Net-(U1A-G)
+$13 Net-(U1B-K)
+#
+#Netlist points
+#
+1 1.0 141.6050 -94.6950 B e e staggered 0 0 0
+1 0.80 148.590 -95.8850 B e e staggered 0 0 0
+1 0.80 164.4650 -125.0950 B e e staggered 0 0 0
+1 1.50 128.270 -117.7760 B e e staggered 0 0 0
+1 1.50 128.270 -105.7110 B e e staggered 0 0 0
+1 0.80 126.3650 -125.0950 B e e staggered 0 0 0
+1 1.50 166.370 -105.410 B e e staggered 0 0 0
+2 1.0 141.6050 -99.6950 B e e staggered 0 0 0
+2 1.50 128.270 -100.7110 B e e staggered 0 0 0
+2 1.020 145.7650 -108.9550 B e e staggered 0 0 0
+3 0.80 137.160 -125.0950 B e e staggered 0 0 0
+3 1.50 128.270 -112.7760 B e e staggered 0 0 0
+3 0.80 133.9850 -125.0950 B e e staggered 0 0 0
+4 0.80 137.160 -120.0950 B e e staggered 0 0 0
+4 0.80 136.2710 -115.570 B e e staggered 0 0 0
+4 1.020 143.6150 -115.4950 B e e staggered 0 0 0
+5 0.80 164.4650 -117.4750 B e e staggered 0 0 0
+5 1.020 154.8250 -115.5350 B e e staggered 0 0 0
+5 1.50 166.370 -100.410 B e e staggered 0 0 0
+6 1.50 145.5420 -131.1910 B e e staggered 0 0 0
+6 1.020 145.7650 -118.4650 B e e staggered 0 0 0
+7 1.50 150.5420 -131.1910 B e e staggered 0 0 0
+7 1.020 152.6750 -108.9550 B e e staggered 0 0 0
+7 1.020 149.2250 -107.8150 B e e staggered 0 0 0
+8 3.20 125.0950 -93.980 B e e staggered 0 0 0
+9 3.20 169.5450 -93.980 B e e staggered 0 0 0
+10 3.20 169.5450 -132.7150 B e e staggered 0 0 0
+11 3.20 125.0950 -132.7150 B e e staggered 0 0 0
+12 0.80 136.2710 -107.950 B e e staggered 0 0 0
+12 1.020 152.6750 -118.4650 B e e staggered 0 0 0
+12 1.020 143.6150 -111.8850 B e e staggered 0 0 0
+13 0.80 156.210 -95.8850 B e e staggered 0 0 0
+13 1.020 154.8250 -111.8850 B e e staggered 0 0 0

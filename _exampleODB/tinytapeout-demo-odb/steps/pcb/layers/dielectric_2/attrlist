@@ -1,0 +1,4 @@
+.layer_dielectric=1.130
+.dielectric_constant=4.60
+.loss_tangent=0.020
+.material=r-1566_w_
