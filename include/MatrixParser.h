@@ -2,15 +2,16 @@
 #include <string>
 #include <vector>
 #include <filesystem>
-#include <nlohmann/json.hpp>
+#include <../nlohmann/json.hpp>
 
 namespace fs = std::filesystem;
 
-struct Layer {
+struct Layer
+{
     std::string name;
-    std::string type;      // COPPER, DIELECTRIC, DRILL, MASK ...
-    int         index = 0;
-    double      thickness_mm = 0.0;
+    std::string type; // COPPER, DIELECTRIC, DRILL, MASK ...
+    int index = 0;
+    double thickness_mm = 0.0;
 };
 
-nlohmann::json parseMatrix(const fs::path& matrixFile);
+nlohmann::json parseMatrix(const fs::path &matrixFile);
