@@ -16,8 +16,4 @@ private:
     fs::path stepPath() const; // resolves steps/<name>/
 
     nlohmann::json parseStackup();
-    nlohmann::json parseProfile();
-    nlohmann::json parseLayers(const nlohmann::json &stackup);
-    nlohmann::json extractVias(const nlohmann::json &layers,
-                               const nlohmann::json &stackup);
 };
